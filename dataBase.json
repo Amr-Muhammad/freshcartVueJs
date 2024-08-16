@@ -1,0 +1,22 @@
+{
+  "admins": [
+    {
+      "id": "d1a3",
+      "userName": "amr",
+      "email": "amr@admin.com",
+      "password": "amr123",
+      "cart": [],
+      "role": "Admin"
+    }
+  ],
+  "users": [
+    {
+      "id": "6b9b",
+      "userName": "amr",
+      "email": "amr@amr.com",
+      "password": "amr123",
+      "cart": [],
+      "role": "User"
+    }
+  ]
+}
