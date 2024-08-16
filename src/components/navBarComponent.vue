@@ -50,9 +50,6 @@
                             <!-- <i class="fa-solid fs-4 fa-cart-shopping cursor"></i> -->
                             <p class="m-0 fw-bold">Dashboard</p>
                         </router-link>
-                        <span v-if="noOfCartItems"
-                            class="rounded-circle position-absolute top-0 start-0 iconCounter d-flex justify-content-center align-items-center translate-middle">{{
-                                noOfCartItems }}</span>
                         <span @click="logout()" class="fw-bold cursor">Logout</span>
                     </div>
                 </li>
