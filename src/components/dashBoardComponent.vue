@@ -44,9 +44,6 @@
                 </tbody>
 
             </table>
-
-            <h2>{{ userData }}</h2>
-
         </div>
     </div>
 </template>

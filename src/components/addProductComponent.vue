@@ -74,6 +74,7 @@ export default {
         async addProductToDataBase(productInfo) {
             let res = await service.methods.addProductToDataBase(productInfo)
             console.log(res);
+            this.$router.push('/adminhome')
         }
     }
     ,

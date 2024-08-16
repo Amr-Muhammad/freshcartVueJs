@@ -1710,6 +1710,48 @@
       "createdAt": "2023-03-08T18:55:24.096Z",
       "updatedAt": "2024-08-16T00:13:31.282Z",
       "id": "6408da1c6406cd15828e8f0a"
+    },
+    {
+      "id": "f12d",
+      "sold": "",
+      "images": [],
+      "subcategory": [
+        {
+          "name": "Electronics"
+        }
+      ],
+      "ratingsQuantity": 500,
+      "title": "Dell G15 15-5515 Gaming Laptop",
+      "description": "Dell G15 15-5515 Gaming Laptop - Ryzen 5 5600H 6 Cores, 16GB RAM, 512GB SSD, Nvidia Geforce RTX 3050 4GB GDDR6 Graphics, 15.6\" FHD 120Hz, Backlit Keyboard, Windows 11 - Phantom Grey",
+      "quantity": "",
+      "price": 43000,
+      "imageCover": "https://m.media-amazon.com/images/I/81y0YdBB+ML._AC_SX679_.jpg",
+      "category": {},
+      "brand": {},
+      "ratingsAverage": 7,
+      "createdAt": "",
+      "updatedAt": "2024"
+    },
+    {
+      "id": "fd43",
+      "sold": "",
+      "images": [],
+      "subcategory": [
+        {
+          "name": "electronics"
+        }
+      ],
+      "ratingsQuantity": 300,
+      "title": "amr muhammad",
+      "description": "Jabra Elite 10 True Wireless Earbuds – Advanced Active Noise Cancelling Earbuds with Dolby Atmos Surround Sound –All-Day Comfort, Multipoint, Wireless Charging – Matte Black (Amazon Exclusive)",
+      "quantity": "",
+      "price": 1000,
+      "imageCover": "https://m.media-amazon.com/images/I/51mPmc0rRQL._AC_SX522_.jpg",
+      "category": {},
+      "brand": {},
+      "ratingsAverage": 10,
+      "createdAt": "",
+      "updatedAt": "2024"
     }
   ]
 }

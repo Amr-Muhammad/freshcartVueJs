@@ -18,7 +18,7 @@
                             <p class="m-0 text-muted fs-7">({{ product.ratingsAverage }})</p>
                         </div>
                         <p class="m-0 mt-2 fw-bold"> EGP {{ product.price }}.00</p>
-                        <button @click="addToCart(product._id)" class="btn btn-success d-block mx-auto w-100 mt-3">Add
+                        <button @click="addToCart(product.id)" class="btn btn-success d-block mx-auto w-100 mt-3">Add
                             to
                             cart</button>
                     </div>

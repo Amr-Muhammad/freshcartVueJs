@@ -25,9 +25,8 @@
                         <p class="m-0 mt-2 fw-bold"> EGP {{ product.price }}.00</p>
                         <div class="mt-3 d-flex gap-3">
                             <router-link :to="`/editproduct/${product.id}`">
-                                <button class="flex-grow-1 btn btn-success">Edit</button>
+                                <button class="flex-grow-1 btn btn-success px-4">Edit</button>
                             </router-link>
-                            <!-- <button @click="adminEditItem(product.id)" class="flex-grow-1 btn btn-success">Edit</button> -->
                             <button @click="adminDeleteItem(product.id)"
                                 class="flex-grow-1 btn btn-danger">Delete</button>
                         </div>

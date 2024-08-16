@@ -15,7 +15,104 @@
       "userName": "amr",
       "email": "amr@amr.com",
       "password": "amr123",
-      "cart": [],
+      "cart": [
+        {
+          "id": "fd43",
+          "sold": "",
+          "images": [],
+          "subcategory": [
+            {
+              "name": "electronics"
+            }
+          ],
+          "ratingsQuantity": 300,
+          "title": "amr muhammad",
+          "description": "Jabra Elite 10 True Wireless Earbuds – Advanced Active Noise Cancelling Earbuds with Dolby Atmos Surround Sound –All-Day Comfort, Multipoint, Wireless Charging – Matte Black (Amazon Exclusive)",
+          "quantity": "",
+          "price": 1000,
+          "imageCover": "https://m.media-amazon.com/images/I/51mPmc0rRQL._AC_SX522_.jpg",
+          "category": {},
+          "brand": {},
+          "ratingsAverage": 10,
+          "createdAt": "",
+          "updatedAt": "2024",
+          "amount": 6
+        },
+        {
+          "id": "f12d",
+          "sold": "",
+          "images": [],
+          "subcategory": [
+            {
+              "name": "Electronics"
+            }
+          ],
+          "ratingsQuantity": 500,
+          "title": "Dell G15 15-5515 Gaming Laptop",
+          "description": "Dell G15 15-5515 Gaming Laptop - Ryzen 5 5600H 6 Cores, 16GB RAM, 512GB SSD, Nvidia Geforce RTX 3050 4GB GDDR6 Graphics, 15.6\" FHD 120Hz, Backlit Keyboard, Windows 11 - Phantom Grey",
+          "quantity": "",
+          "price": 43000,
+          "imageCover": "https://m.media-amazon.com/images/I/81y0YdBB+ML._AC_SX679_.jpg",
+          "category": {},
+          "brand": {},
+          "ratingsAverage": 7,
+          "createdAt": "",
+          "updatedAt": "2024",
+          "amount": 2
+        }
+      ],
+      "role": "User"
+    },
+    {
+      "id": "ca9a",
+      "userName": "amr2",
+      "email": "amr2@amr.com",
+      "password": "amr123",
+      "cart": [
+        {
+          "sold": 4100,
+          "images": [
+            "https://ecommerce.routemisr.com/Route-Academy-products/1680402563676-2.jpeg",
+            "https://ecommerce.routemisr.com/Route-Academy-products/1680402563676-3.jpeg",
+            "https://ecommerce.routemisr.com/Route-Academy-products/1680402563677-4.jpeg",
+            "https://ecommerce.routemisr.com/Route-Academy-products/1680402563675-1.jpeg",
+            "https://ecommerce.routemisr.com/Route-Academy-products/1680402563677-5.jpeg"
+          ],
+          "subcategory": [
+            {
+              "_id": "6407f1bcb575d3b90bf95797",
+              "name": "Women's Clothing",
+              "slug": "women's-clothing",
+              "category": "6439d58a0049ad0b52b9003f"
+            }
+          ],
+          "ratingsQuantity": 10,
+          "_id": "6428e884dc1175abc65ca096",
+          "title": "Woman Shawl",
+          "slug": "woman-shawl",
+          "description": "Material\tPolyester Blend\nColour Name\tBeige\nDepartment\tWomen",
+          "quantity": 228,
+          "price": 349,
+          "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402563605-cover.jpeg",
+          "category": {
+            "_id": "6439d58a0049ad0b52b9003f",
+            "name": "Women's Fashion",
+            "slug": "women's-fashion",
+            "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+          },
+          "brand": {
+            "_id": "64089bbe24b25627a253158b",
+            "name": "DeFacto",
+            "slug": "defacto",
+            "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+          },
+          "ratingsAverage": 4.2,
+          "createdAt": "2023-04-02T02:29:24.696Z",
+          "updatedAt": "2024-08-16T17:57:39.806Z",
+          "id": "6428e884dc1175abc65ca096",
+          "amount": 1
+        }
+      ],
       "role": "User"
     }
   ]
